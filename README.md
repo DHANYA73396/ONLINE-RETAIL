@@ -1,1 +1,2 @@
-# ONLINE-RETAIL
+# onlineretail
+milestone project
