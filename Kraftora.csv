@@ -1,0 +1,133 @@
+Invoice,Month,StockCode,Description,Name,InvoiceDate,Price,Customer ID,Country
+489434,June,85048,Hot wheels Bouquet ,Dakshithaa,19.06.2025,350,13085,India
+489434,June,79323P,Polaroids Bouquet,Soniya,16.06.2025,400,13085,India
+489434,June,79323W,Polaroids Bouquet,Tamana,14.06.2025,400,13085,India
+489434,June,22041,Mini Frame,Darshana,16.06.2025,180,13085,India
+489434,June,21232,Mini Frame,Tharuna,20.06.2025,200,13085,India
+489434,June,22064,Big Hamper,Bagavathi,25.06.2025,550,13085,India
+489434,June,21871,Mini Frame,Sapthami,25.06.2025,180,13085,India
+489434,June,21523,Mini Hamper,Mohan Bhai,28.06.2025,350,13085,India
+489435,June,22350,Mini Frame,Sindhuja,30.06.2025,180,13085,India
+489435,June,22349,Polaroids,Tanisha,27.06.2025,120,13085,India
+489435,June,22195,Mini Hamper,Suriya,30.06.2025,350,13085,India
+489435,July,22353,Mini Frame,Priya,07.07.2025,180,13085,India
+489436,July,48173C,Polaroids,Poobesh,07.07.2025,150,13078,India
+489436,July,21755,Mini Frame,Rithikaa,08.07.2025,180,13078,India
+489436,July,21754,Mini Frame,Sangami ,10.07.2025,180,13078,India
+489436,July,84879,Mini Frame,Nandhitha,10.07.2025,180,13078,India
+489436,July,22119,Polaroids,Poobesh,11.07.2025,100,13078,India
+489436,July,22142,Mini Hamper,Vivega,11.07.2025,270,13078,India
+489436,July,22296,Special Hamper,Shrey,14.07.2025,"1,650",13078,India
+489436,July,22295,Polaroids,Monish,16.07.2025,200,13078,India
+489436,July,22109,A5 Frame ,Sindhuja,16.07.2025,"1,000",13078,India
+489436,July,22107,Mini Frame,Harshini,23.07.2025,180,13078,India
+489436,July,22194,Strips and Cards,Rithikaa,24.07.2025,150,13078,India
+489436,July,35004B,Big Hamper,Mohan Bhai,25.07.2025,650,13078,India
+489436,July,82582,Big Hamper,Prakash,28.07.2025,650,13078,India
+489436,August,21181,Kinderjoy Bouquet,Jeni,01.08.2025,700,13078,India
+489436,August,21756,Mini Frame,Sangami ,04.08.2025,200,13078,India
+489436,August,21333,Mini Bouquet + Polaroids,Meha,05.08.2025,200,13078,India
+489436,August,84596F,Mini frame + Polaroids,Harshini,05.08.2025,210,13078,India
+489436,August,84596L,Frames,Uma,05.08.2025,500,13078,India
+489436,August,22111,Polaroids Book,Jeni,08.08.2025,230,13078,India
+489437,August,22143,Polaroids,Rithanya,09.08.2025,180,15362,India
+489437,August,22145,Special Hamper,Abhi,10.08.2025,"3,000",15362,India
+489437,August,22130,Mini Hamper,Jindha,11.08.2025,335,15362,India
+489437,August,21364,Polaroids,Rithanya,12.08.2025,200,15362,India
+489437,August,21360,Custom Bouquet + Polaroids,Poobesh,13.08.2025,"1,150",15362,India
+489437,August,21351,Frame + Polaroids,Lakshimiga,14.08.2025,250,15362,India
+489437,August,21352,Mini frame + Polaroids,Nithish,15.08.2025,230,15362,India
+489437,August,35400,Mini frame + Polaroids,Lohi ,18.08.2025,230,15362,India
+489437,August,20695,8x6 Frames,Tamana,18.08.2025,"1,050",15362,India
+489437,August,37370,Frame + Polaroids,Harini ,18.08.2025,250,15362,India
+489437,August,10002,8x6 Frames,Jaishree,22.08.2025,400,15362,India
+489437,August,84507B,Custom Hamper,Kaniska,23.08.2025,320,15362,India
+489437,August,20703,Mini frame,Krithika,25.08.2025,200,15362,India
+489437,August,21987,Strips and Cards,Madhimalar,25.08.2025,70,15362,India
+489437,August,21989,Mini Frames,Rosina,26.08.2025,400,15362,India
+489437,August,84970S,Mini Frames,Pradeepa,28.08.2025,200,15362,India
+489437,August,20971,Stickers,Harshini,28.08.2025,80,15362,India
+489437,August,22271,Custom Pack,Vivega,30.08.2025,130,15362,India
+489437,August,22272,Chocolate Bouquet,Poobesh,30.08.2025,400,15362,India
+489437,September,22274,Mini Frame,Rithanya,08.09.2025,200,15362,India
+489437,September,21912,Polaroids,Siva Krithik,10.09.2025,170,15362,India
+489437,September,22111,Designing,Pranav,10.09.2025,500,15362,India
+489437,September,22112,Hot wheels Bouquet ,Narmatha,15.09.2025,"1,100",15362,India
+489438,September,21329,Mini Frame,Rithanya,18.09.2025,200,18102,India
+489438,September,21252,Polaroids Bouquet,Manju,20.09.2025,600,18102,India
+489438,September,21100,Polaroids,Poobesh,22.09.2025,250,18102,India
+489438,September,21033,Custom Hamper,Asifa,24.09.2025,410,18102,India
+489438,October,20711,Custom Pack,Asmitha,01.10.2025,230,18102,India
+489438,October,21410,Custom Hamper,Siva Krithik,07.10.2025,600,18102,India
+489438,October,21411,Mini Frame,Mitra,09.10.2025,200,18102,India
+489438,October,84031A,Big Hamper + Polaroid Bouquet,Rithikaa,09.10.2025,"1,350",18102,India
+489438,October,84031B,Custom Hamper,Siva Krithik,12.10.2025,"1,000",18102,India
+489438,October,84032A,Polaroids Bouquet,Ahilesha,13.10.2025,700,18102,India
+489438,October,84032B,Big Hamper,Soniya,13.10.2025,650,18102,India
+489438,October,84519A,Polaroids,Sumitha,15.10.2025,410,18102,India
+489438,October,84519B,Polaroids,Keerthika,15.10.2025,60,18102,India
+489438,October,85132A,Mini Frame,Sri,17.10.2025,200,18102,India
+489438,October,85132C,Polaroids,Sumitha,18.10.2028,240,18102,India
+489438,October,85183A,A4 Frame,Rithanya,18.10.2025,500,18102,India
+489438,October,85183B,Polaroids,Jeni,21.10.2025,60,18102,India
+489439,October,22065,Mini Frame,Sam,23.10.2025,200,12682,India
+489439,October,22138,8x6 Frames,Sam,26.10.2025,400,12682,India
+489439,October,22139,A4 Frame,Papa,26.10.2025,600,12682,India
+489439,October,22352,Mini Frame,Harini ,30.10.2025,200,12682,India
+489439,October,85014A,Mini Frame,Harshini,30.10.2025,200,12682,India
+489439,October,85014B,Mini Frame,Harini ,31.10.2025,200,12682,India
+489439,October,16161P,Polaroids,Harini ,31.10.2025,90,12682,India
+489439,October,16169N,8x6 Frames,Rithanya,31.10.2025,400,12682,India
+489439,November,21491,Mini Frame,Harini ,04.11.2025,200,12682,India
+489439,November,22333,Polaroids,Jeni,06.11.2025,50,12682,India
+489439,November,85216,Mini Frame,Tharuna,06.11.2025,200,12682,India
+489439,November,21493,Mini Frame + Mini Bouquet,Harshini,06.11.2025,250,12682,India
+489439,November,22130,Mini Hamper,Dhivya,08.11.2025,260,12682,India
+489439,November,22064,A4 Frame,Sam,09.11.2025,150,12682,India
+489439,November,21731,8x6 Frames + Polaroids,Rithikaa,11.11.2025,480,12682,India
+489439,November,85232B,Chocolate Bouquet,Nivethaa,11.11.2025,800,12682,India
+489439,November,84691,Stickers,Vivega,11.11.2025,300,12682,India
+489439,November,20749,Polaroids,Vivega,12.11.2025,195,12682,India
+489439,November,POST,Polaroids,Asmitha,18.11.2025,120,12682,India
+489440,November,22350,A4 Frame + Polaroids,Harshini,20.11.2025,750,18087,India
+489440,November,22349,Polaroids,Rithikaa,20.11.2025,110,18087,India
+489441,November,22321,8x6 Frame,Lakshmi,20.11.2025,400,18087,India
+489441,November,22138,Mini Frame,Mupi,21.11.2025,200,18087,India
+489441,November,84029E,Mini Frame,Rithanya,22.11.2025,200,18087,India
+489441,November,22111,Big Hamper,Harini ,22.11.2025,800,18087,India
+489442,November,21955,A4 Frame,Rithanya,27.11.2025,600,13635,India
+489442,November,22111,Polaroids,Asmitha,27.11.2025,120,13635,India
+489442,November,22296,Special Hamper,Nandhini,28.11.2025,650,13635,India
+489442,November,84899E,Mini frame + Polaroids,Valli,29.11.2025,250,13635,India
+489442,December,22271,Custom Hamper,Kavin aishwarya,04.12.2025,270,13635,India
+489442,December,22272,Mini frame + Polaroids,Jaisree,04.12.2025,230,13635,India
+489442,December,85123A,Polaroids,Siva Krithik,05.12.2025,70,13635,India
+489442,December,21582,Big Hamper,Suba,05.12.2025,700,13635,India
+489442,December,21586,Polaroids + Letter,Mirudula,06.12.2025,320,13635,India
+489442,December,21590,Mini Frame,Sowmi,06.12.2025,200,13635,India
+489442,December,22091,Clip Bouquet,Swetha,09.12.2025,670,13635,India
+489442,December,84251J,Custom Hamper,Harini ,12.12.2025,300,13635,India
+489442,December,22024,Polaroids,Anushya,15.12.2025,140,13635,India
+489442,December,22026,Mini Frame,Vivega,15.12.2025,240,13635,India
+489442,December,22029,Car Hamper,Rithanya,16.12.2025,160,13635,India
+489442,December,22025,Letter,Hema,16.12.2025,70,13635,India
+489442,December,22031,Custom Hamper,Ashwin,16.12.2025,200,13635,India
+489442,December,21428,Chocolate Bouquet + Polaroids,Dharseni,18.12.2025,"1,800",13635,India
+489442,December,21430,8x6 Frame,Rithanya,22.12.2025,400,13635,India
+489442,December,21916,Custom Hamper,Rithanya,22.12.2025,500,13635,India
+489442,December,21790,Ring Album,Rithanya,26.12.2025,300,13635,India
+489442,December,21888,Custom Hamper,Suba,26.12.2025,400,13635,India
+489442,December,85178,Custom Hamper,Mupi,29.12.2025,300,13635,India
+489443,December,20754,Mini Frame,Krithika,29.12.2025,200,14110,India
+489443,December,21035,Mini Frame,Valli,31.12.2025,250,14110,India
+489443,January,22041,Mini Frame,Rithanya,02.01.2026,200,14110,India
+489443,January,82001S,Ring Album,Madhimalar,02.01.2026,200,14110,India
+489443,January,82580,Frame + Mini Bouquet,Asifa,08.01.2026,480,14110,India
+489443,January,85150,Mini Frames,Anu ,12.01.2026,680,14110,India
+489443,January,21041,Polaorids,Vishnu,12.01.2025,95,14110,India
+489444,January,POST,Big Hamper,Madhusha,14.01.2026,700,12636,India
+489445,January,35916C,A4 Frame,Anu,20.01.2026,600,17519,India
+489445,January,35916B,Polaroids,Harini ,20.01.2026,95,17519,India
+489445,January,22321,Mini Frame,Angellin,20.01.2026,200,17519,India
+489445,January,22130,Custom Hamper,Pradeepa,21.01.2026,430,17519,India
+489445,January,22180,Mini Frame,Kowsalya,21.01.2026,400,17519,India
